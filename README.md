@@ -8,6 +8,7 @@ To run this project, you'll need Python and the following libraries. You can ins
 
 ```bash
 pip install numpy pandas scikit-learn pywt matplotlib tqdm
+```
 
 Usage
 Download the vibration data files (S2_train_10msps_1sec.dat and S3_train_10msps_1sec.dat) and place them in a directory named Dataset.

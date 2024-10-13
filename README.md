@@ -32,7 +32,6 @@ The project was developed using the following libraries:
 
 ## Results
 - **Accuracy**: 90%
-- **F1-score**: YY%
 - Best-performing model: Random Forest
 - Key factors influencing interest levels: Price, location, and description length.
 

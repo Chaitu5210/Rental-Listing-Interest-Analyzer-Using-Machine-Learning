@@ -26,12 +26,12 @@ The project was developed using the following libraries:
 1. **Data Preprocessing**: Cleaning and handling missing data, feature engineering.
 2. **Exploratory Data Analysis (EDA)**: Understanding the data distribution and relationships between features.
 3. **Feature Engineering**: Processing text descriptions, handling location data.
-4. **Modeling**: Building classification models like Logistic Regression, Random Forest, and XGBoost.
+4. **Modeling**: Building classification models like Logistic Regression, Random Forest, and SVC.
 5. **Evaluation**: Assessing model performance using metrics like accuracy and F1-score.
 6. **Model Tuning**: Optimizing model parameters using cross-validation and hyperparameter tuning.
 
 ## Results
-- **Accuracy**: XX%
+- **Accuracy**: 90%
 - **F1-score**: YY%
 - Best-performing model: Random Forest
 - Key factors influencing interest levels: Price, location, and description length.

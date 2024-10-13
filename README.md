@@ -39,5 +39,5 @@ The project was developed using the following libraries:
 ## How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/rental-listing-interest-analyzer.git
+   https://github.com/Chaitu5210/Rental-Listing-Interest-Analyzer-Using-Machine-Learning.git
 
